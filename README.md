@@ -14,7 +14,7 @@ Be sure to have [Git](https://git-scm.com/downloads) installed.
 ### Downloading
 If you just need to use the Snippets just clone the repository and be sure to checkout the `ready` branch. Then you will find 2 files:
 
-A JSON file with all the css Snippets: snippetsCss.json
+A JSON file with all the css Snippets: `snippetsCss.json`
 A BAT file to help you get the JSON into the right directory: UpdateEskerSnippetsIntoLocal.bat
 Execute the BAT file by double clicking or from Bash by running:
 ```
