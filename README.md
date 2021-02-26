@@ -15,10 +15,10 @@ Be sure to have [Git](https://git-scm.com/downloads) installed.
 If you just need to use the Snippets just clone the repository and be sure to checkout the `ready` branch. Then you will find 2 files:
 
 A JSON file with all the css Snippets: `snippetsCss.json`
-A BAT file to help you get the JSON into the right directory: UpdateEskerSnippetsIntoLocal.bat
+A BAT file to help you get the JSON into the right directory: UpdateSnippetsCssIntoLocal.bat
 Execute the BAT file by double clicking or from Bash by running:
 ```
-./UpdateEskerSnippetsIntoLocal.bat
+./UpdateSnippetsCssIntoLocal.bat
 ```
 This will create/replace the snippetsCss.json file in the right directory so that Visual Studio Code would be ready to use it. Now you are ready to open a CSS file and type 'css' as main keyword and start seeing all availabe Snippets.
 
