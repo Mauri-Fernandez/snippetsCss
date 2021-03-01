@@ -8,19 +8,17 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 Be sure to have [Visual studio code](https://code.visualstudio.com/download) installed.
 
-Be sure to have [Git](https://git-scm.com/downloads) installed.
-
 
 ### Downloading
-If you just need to use the Snippets just clone the repository and be sure to checkout the `ready` branch. Then you will find 2 files:
+If you just need to use the Snippets just clone the repository. Then you will find 2 files:
 
-A JSON file with all the css Snippets: `snippetsCss.json`
+A JSON file with all the css Snippets: `snippetsCss.code-snippets`
 A BAT file to help you get the JSON into the right directory: UpdateSnippetsCssIntoLocal.bat
 Execute the BAT file by double clicking or from Bash by running:
 ```
 ./UpdateSnippetsCssIntoLocal.bat
 ```
-This will create/replace the snippetsCss.json file in the right directory so that Visual Studio Code would be ready to use it. Now you are ready to open a CSS file and type 'css' as main keyword and start seeing all availabe Snippets.
+This will create/replace the snippetsCss.code-snippets file in the right directory so that Visual Studio Code would be ready to use it. Now you are ready to open a CSS file and type 'css' as main keyword and start seeing all availabe Snippets.
 
 ### Contributing
 If you are an CSS developer and want to propose new Snippets to be added into this project please feel free to:
