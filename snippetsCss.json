@@ -1,7 +1,4 @@
 {
-    // Snippets for css 
-    // Last modification : 2021-02-21 
-    // Contributors Mauricio Fernandez, ... 
 
     "Reset CSS": {
         "prefix": "reset",
@@ -182,7 +179,7 @@
         ],
         "description": "class h1 to h6"
     },
-    /* Flex */
+    
     "Display Flex": {
         "prefix": "flex",
         "body": "display:flex;",
