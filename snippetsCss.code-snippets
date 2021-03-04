@@ -89,9 +89,9 @@
     "Centered text": {
         "prefix": "text align center",
         "body": [
-            "text-aling:center;"
+            "text-align:center;"
         ],
-        "description": "Text aling center"
+        "description": "Text align center"
     },
     "Width 100%": {
         "prefix": "w100",
